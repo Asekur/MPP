@@ -1,0 +1,13 @@
+D:\Для учебы\СПП\SPP\bin\Debug\SPP.exe.config
+D:\Для учебы\СПП\SPP\bin\Debug\SPP.exe
+D:\Для учебы\СПП\SPP\bin\Debug\SPP.pdb
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.csprojAssemblyReference.cache
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.Form1.resources
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.Properties.Resources.resources
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.csproj.GenerateResource.cache
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.csproj.CoreCompileInputs.cache
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.exe
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.pdb
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.Form2.resources
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.Form3.resources
+D:\Для учебы\СПП\SPP\obj\Debug\SPP.Form4.resources
