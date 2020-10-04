@@ -1,0 +1,7 @@
+D:\Для учебы\СПП\Pool Thread\Pool Thread\bin\Debug\Pool Thread.exe.config
+D:\Для учебы\СПП\Pool Thread\Pool Thread\bin\Debug\Pool Thread.exe
+D:\Для учебы\СПП\Pool Thread\Pool Thread\bin\Debug\Pool Thread.pdb
+D:\Для учебы\СПП\Pool Thread\Pool Thread\obj\Debug\Pool Thread.csprojAssemblyReference.cache
+D:\Для учебы\СПП\Pool Thread\Pool Thread\obj\Debug\Pool Thread.csproj.CoreCompileInputs.cache
+D:\Для учебы\СПП\Pool Thread\Pool Thread\obj\Debug\Pool Thread.exe
+D:\Для учебы\СПП\Pool Thread\Pool Thread\obj\Debug\Pool Thread.pdb
