@@ -1,6 +1,7 @@
 ﻿using System.Threading;
 using System.Text;
 using System.IO;
+using System;
 
 namespace Mutex
 {
@@ -31,10 +32,19 @@ namespace Mutex
             StreamWriter sw = new StreamWriter(fs, Encoding.Default);
             OSHandle osHandle = new OSHandle(fs.Handle);
 
-            sw.WriteLine(text);
-            sw.Close();
             osHandle.Dispose();
-            fs.Close();
+            try
+            {
+                sw.WriteLine(text);
+                sw.Close();
+                fs.Close();
+                Console.WriteLine("Successful writing");
+            }
+            catch
+            {
+                Console.WriteLine("Cannot write to file");
+            }
+            Console.ReadKey();
         }
 
         private static void MiniPool()
