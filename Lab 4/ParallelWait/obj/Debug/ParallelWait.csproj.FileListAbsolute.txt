@@ -1,0 +1,11 @@
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\bin\Debug\NLog.config
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\bin\Debug\ParallelWait.exe.config
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\bin\Debug\ParallelWait.exe
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\bin\Debug\ParallelWait.pdb
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\bin\Debug\NLog.dll
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\bin\Debug\NLog.xml
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\obj\Debug\ParallelWait.csprojAssemblyReference.cache
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\obj\Debug\ParallelWait.csproj.CoreCompileInputs.cache
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\obj\Debug\ParallelWait.csproj.CopyComplete
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\obj\Debug\ParallelWait.exe
+D:\Для вот этого мусора\github\MPP\Lab 4\ParallelWait\obj\Debug\ParallelWait.pdb
