@@ -10,8 +10,6 @@ namespace ParallelWait
 
         static void Main(string[] args)
         {
-            ParallelWait parallelWait = new ParallelWait();
-
             //от -2^31 до 2^31-1
             int counter = 1;
             ParallelWait.TaskDelegate[] delegates = new ParallelWait.TaskDelegate[maxIndex];
@@ -20,8 +18,8 @@ namespace ParallelWait
             {
                 delegates[i] = (() => counter *= 2);
             }
-
-            parallelWait.WaitAll(delegates);
+            //создание очереди
+            ParallelWait.WaitAll(delegates);
             ParallelWait.log.Add("Counter: " + counter);
             //_log.Info("Counter: " + counter);
             ParallelWait.log.Dispose();

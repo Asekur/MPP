@@ -1,23 +1,23 @@
-[INFO] 02.11.2020 14:54:56 Executing task 1
-[INFO] 02.11.2020 14:54:56 Executing task 2
-[INFO] 02.11.2020 14:54:56 Executing task 3
-[INFO] 02.11.2020 14:54:56 Executing task 4
-[INFO] 02.11.2020 14:54:56 Executing task 5
-[INFO] 02.11.2020 14:54:56 Executing task 6
-[INFO] 02.11.2020 14:54:56 Executing task 7
-[INFO] 02.11.2020 14:54:56 Executing task 8
-[INFO] 02.11.2020 14:54:56 Executing task 9
-[INFO] 02.11.2020 14:54:56 Executing task 10
-[INFO] 02.11.2020 14:54:56 Executing task 11
-[INFO] 02.11.2020 14:54:56 Executing task 12
-[INFO] 02.11.2020 14:54:56 Executing task 13
-[INFO] 02.11.2020 14:54:56 Executing task 14
-[INFO] 02.11.2020 14:54:56 Executing task 15
-[INFO] 02.11.2020 14:54:56 Executing task 16
-[INFO] 02.11.2020 14:54:56 Executing task 17
-[INFO] 02.11.2020 14:54:56 Executing task 18
-[INFO] 02.11.2020 14:54:56 Executing task 19
-[INFO] 02.11.2020 14:54:56 Executing task 20
-[INFO] 02.11.2020 14:54:57 Waiting for 20 tasks
-[INFO] 02.11.2020 14:54:57 Tasks executed
-[INFO] 02.11.2020 14:54:57 Counter: 1048576
+[INFO] 04.11.2020 22:36:08 Executing task 1
+[INFO] 04.11.2020 22:36:08 Executing task 2
+[INFO] 04.11.2020 22:36:08 Executing task 3
+[INFO] 04.11.2020 22:36:08 Executing task 4
+[INFO] 04.11.2020 22:36:08 Executing task 5
+[INFO] 04.11.2020 22:36:08 Executing task 6
+[INFO] 04.11.2020 22:36:08 Executing task 7
+[INFO] 04.11.2020 22:36:08 Executing task 8
+[INFO] 04.11.2020 22:36:08 Executing task 9
+[INFO] 04.11.2020 22:36:08 Executing task 10
+[INFO] 04.11.2020 22:36:08 Executing task 11
+[INFO] 04.11.2020 22:36:08 Executing task 12
+[INFO] 04.11.2020 22:36:08 Executing task 13
+[INFO] 04.11.2020 22:36:08 Executing task 14
+[INFO] 04.11.2020 22:36:08 Executing task 15
+[INFO] 04.11.2020 22:36:08 Executing task 16
+[INFO] 04.11.2020 22:36:08 Executing task 17
+[INFO] 04.11.2020 22:36:08 Executing task 18
+[INFO] 04.11.2020 22:36:08 Executing task 19
+[INFO] 04.11.2020 22:36:08 Executing task 20
+[INFO] 04.11.2020 22:36:09 Waiting for 20 tasks
+[INFO] 04.11.2020 22:36:09 Tasks executed
+[INFO] 04.11.2020 22:36:09 Counter: 1048576

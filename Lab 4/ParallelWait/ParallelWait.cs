@@ -4,27 +4,18 @@ using NLog;
 
 namespace ParallelWait
 {
-    class ParallelWait
+    static class ParallelWait
     {
-        public static TaskQueue _taskQueue;
         public delegate void TaskDelegate();
-        public static int threadCount = 10;
+        public const int threadCount = 10;
+        public static TaskQueue _taskQueue = new TaskQueue(threadCount);
 
-        public static LogBuffer log = new LogBuffer(4, 100);
+        private const int maxSizeBuffer = 20;
+        private const int maxTimerSeconds = 100;
+        public static LogBuffer log = new LogBuffer(maxSizeBuffer, maxTimerSeconds);
         //private static Logger _log = LogManager.GetCurrentClassLogger();
 
-        public ParallelWait()
-        {
-            _taskQueue = new TaskQueue(threadCount);
-        }
-
-        public ParallelWait(TaskQueue queue)
-        {
-            _taskQueue = queue;
-            threadCount = queue.Count();
-        }
-
-        public void WaitAll(TaskDelegate[] taskDelegates)
+        public static void WaitAll(TaskDelegate[] taskDelegates)
         {
             //дожидается, пока выполнятся все делегаты
             int numberOfTasks = taskDelegates.Length;
