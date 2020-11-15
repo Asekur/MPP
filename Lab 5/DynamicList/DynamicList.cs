@@ -6,6 +6,7 @@ using NLog;
 namespace DynamicList
 {
     //параметр универсального типа
+    [ExportClass]
     public class DynamicList<T> : IEnumerable<T>
     {
         private static Logger _log = LogManager.GetCurrentClassLogger();
@@ -33,8 +34,8 @@ namespace DynamicList
                 _arrayItems.CopyTo(newArray, 0);
                 _arrayItems = newArray;
             }
-            _currentAmount++;
             _arrayItems[_currentAmount] = value;
+            _currentAmount++;
             _log.Info("The value " + value + " was added to array");
         }
 
@@ -57,10 +58,10 @@ namespace DynamicList
                 _log.Info("Removed index " + indexInArray + " is out of range");
                 return;
             }
-            T[] copyArray = new T[_arrayItems.Length - 1];
+            T[] copyArray = new T[_arrayItems.Length];
             _arrayItems.CopyTo(copyArray, 0);
             Array.Copy(_arrayItems, indexInArray + 1, copyArray, indexInArray, _arrayItems.Length - indexInArray - 1);
-            _log.Info("Element " + _arrayItems[indexInArray] +" [" + indexInArray + "] was deleted");
+            _log.Info("Element " + _arrayItems[indexInArray] + " [" + indexInArray + "] was deleted");
             _arrayItems = copyArray;
             _currentAmount--;
         }

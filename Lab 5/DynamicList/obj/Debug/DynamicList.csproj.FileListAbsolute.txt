@@ -1,0 +1,11 @@
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\bin\Debug\NLog.config
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\bin\Debug\DynamicList.exe.config
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\bin\Debug\DynamicList.exe
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\bin\Debug\DynamicList.pdb
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\bin\Debug\NLog.dll
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\bin\Debug\NLog.xml
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\obj\Debug\DynamicList.csprojAssemblyReference.cache
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\obj\Debug\DynamicList.csproj.CoreCompileInputs.cache
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\obj\Debug\DynamicList.csproj.CopyComplete
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\obj\Debug\DynamicList.exe
+D:\Для вот этого мусора\github\MPP\Lab 5\DynamicList\obj\Debug\DynamicList.pdb
